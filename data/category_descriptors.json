@@ -1,0 +1,9 @@
+{
+  "dining": ["restaurant", "cafe", "coffee shop", "fast food", "food delivery", "bar"],
+  "groceries": ["supermarket", "grocery store", "food market", "convenience store", "discount store"],
+  "online_shopping": ["online retail", "e-commerce", "marketplace", "online store"],
+  "airlines": ["airline", "flights", "air travel", "aviation"],
+  "hotels": ["hotel", "resort", "accommodation", "lodging", "booking"],
+  "transport": ["taxi", "ride share", "bus", "train", "ride hailing", "public transit"],
+  "travel_portal": ["travel booking", "travel agency", "trip planning", "vacation booking"]
+}

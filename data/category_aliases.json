@@ -1,0 +1,8 @@
+{
+  "coffee": "dining",
+  "food": "dining",
+  "grocery": "groceries",
+  "ride": "transport",
+  "taxi": "transport",
+  "shopping": "online_shopping"
+}
